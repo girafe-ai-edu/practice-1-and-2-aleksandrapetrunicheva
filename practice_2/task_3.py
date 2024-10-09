@@ -5,7 +5,7 @@ BMI = weight/height**2
 """
 weight = input()
 height = input()
-
+BMI = weight/height**2
 
 #code here
 
